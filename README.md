@@ -41,21 +41,21 @@ Interns can complete **any 2 levels** out of the 3 available. Level 3 completion
    git clone https://github.com/ushalakshmi75/Datascience.git# Datascience
 Data Science Internship with Cognifyz Technologies
 
-2. ##Navigate to the project directory:
+2. **Navigate to the project directory:**
 
 cd Datascience
 
 
-3. Open the project in your preferred IDE (e.g., VS Code, Jupyter Notebook).
+3. **Open the project in your preferred IDE (e.g., VS Code, Jupyter Notebook).**
 
 
-4. Install required packages (if any):
+4. **Install required packages (if any):**
 
 pip install -r requirements.txt
 
 
-5. Explore the tasks organized by level folders (Level1, Level2, Level3).
+5. **Explore the tasks organized by level folders (Level1, Level2, Level3).**
 
 
-6. Run the notebooks or scripts to view the analyses and visualizations.
+6. **Run the notebooks or scripts to view the analyses and visualizations.**
 
